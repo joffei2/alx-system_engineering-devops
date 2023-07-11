@@ -1,2 +1,2 @@
 #!/bin/bash
-pintf "%.2f" $NUM | sort
+pintf "%.2f \n" $NUM
